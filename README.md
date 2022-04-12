@@ -1,2 +1,2 @@
-# myppsample
+# myappsample
 sample app; tutorial
